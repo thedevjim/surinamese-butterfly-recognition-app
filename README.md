@@ -6,7 +6,10 @@ A Flutter mobile application that uses machine learning to identify butterfly sp
 
 <div align="center">
   <!-- TODO: Add actual paths to screenshots and GIF -->
-  <img src="assets/readme-files/walkthrough-preview.gif" width="250" alt="App Walkthrough GIF">
+
+https://github.com/user-attachments/assets/72514584-a78d-4304-b85b-b3530aee00b0
+
+
 </div>
 
 ---
