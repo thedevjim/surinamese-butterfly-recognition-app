@@ -4,13 +4,16 @@
 
 A Flutter mobile application that uses machine learning to identify butterfly species native to Suriname through camera capture or photo upload. The app provides instant species recognition with confidence scores and detailed information about each butterfly species.
 
-<div align="center">
-  <!-- TODO: Add actual paths to screenshots and GIF -->
-
-https://github.com/user-attachments/assets/72514584-a78d-4304-b85b-b3530aee00b0
 
 
-</div>
+
+
+
+https://github.com/user-attachments/assets/f564fd00-3696-4a53-b79b-4f82b4c20675
+
+
+
+
 
 ---
 
